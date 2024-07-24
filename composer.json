@@ -1,6 +1,6 @@
 {
-    "name": "abukbt13/laravel_migration",
-    "description": "A Laravel package for creating migration fields via console commands",
+    "name": "abukbt13/laravel-migration-fields",
+    "description": "A package for creating migration fields using Laravel console commands",
     "type": "library",
     "license": "MIT",
     "autoload": {
@@ -15,8 +15,5 @@
         }
     ],
     "minimum-stability": "dev",
-    "require": {
-        "php": "^8.0",
-        "illuminate/support": "^8.0|^9.0|^10.0|^11.0"
-    }
+    "require": {}
 }
